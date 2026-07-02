@@ -55,7 +55,7 @@ Example of converting Arabic text into the equivalent English keyboard layout.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/arabic-english-keyboard-converter.git
+git clone https://github.com/mohamedsayed-dev/arabic-english-keyboard-converter.git
 ```
 
 Navigate to the project folder:
